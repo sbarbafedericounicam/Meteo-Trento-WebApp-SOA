@@ -1,0 +1,15 @@
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\bin\Debug\net8.0\ServiziMeteo.deps.json
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\bin\Debug\net8.0\ServiziMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\bin\Debug\net8.0\ServiziMeteo.pdb
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.AssemblyInfoInputs.cache
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.AssemblyInfo.cs
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.csproj.CoreCompileInputs.cache
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\refint\ServiziMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.pdb
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ref\ServiziMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\bin\Debug\net8.0\ModelliMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\bin\Debug\net8.0\ModelliMeteo.pdb
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziMeteo.csproj.AssemblyReference.cache
+C:\Users\federico\source\repos\ProgettoEsame\ServiziMeteo\obj\Debug\net8.0\ServiziM.82B72C7B.Up2Date

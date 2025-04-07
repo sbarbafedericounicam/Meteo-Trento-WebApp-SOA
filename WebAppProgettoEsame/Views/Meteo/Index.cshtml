@@ -1,0 +1,64 @@
+﻿@model WebAppProgettoEsame.ViewModels.MeteoViewModel
+
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Previsioni Meteo</title>
+    <link rel="stylesheet" href="~/css/stiliMeteo.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Previsioni Meteo</h1>
+        @foreach (var previsione in Model.Meteo.previsione)
+        {
+            <div class="previsione">
+                <h2>@previsione.localita - Quota: @previsione.quota m</h2>
+                <div class="giorni">
+                    @foreach (var giorno in previsione.giorni)
+                    {
+                        <div class="giorno">
+                            <h3>@giorno.giorno</h3>
+                            <div class="icona">
+                                <img src="@giorno.icona" alt="@giorno.descIcona">
+                            </div>
+                            <p>@giorno.testoGiorno</p>
+                            <p>Temperatura minima: @giorno.tMinGiorno°C</p>
+                            <p>Temperatura massima: @giorno.tMaxGiorno°C</p>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Fascia Oraria</th>
+                                        <th>Icona</th>
+                                        <th>Descrizione Icona</th>
+                                        <th>Temperatura Probabile</th>
+                                        <th>Vento Intensità (Quota)</th>
+                                        <th>Vento Direzione (Quota)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var fascia in giorno.fasce)
+                                    {
+                                        <tr>
+                                            <td>@fascia.fasciaOre</td>
+                                            <td><img src="@fascia.icona" alt="@fascia.descIcona"></td>
+                                            <td>@fascia.descIcona</td>
+                                            <td>@fascia.descTempProb</td>
+                                            <td>@fascia.descVentoIntQuota</td>
+                                            <td>@fascia.descVentoDirQuota</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>
+
+

@@ -1,0 +1,12 @@
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\bin\Debug\net8.0\ModelliMeteo.deps.json
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\bin\Debug\net8.0\ModelliMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\bin\Debug\net8.0\ModelliMeteo.pdb
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.csproj.AssemblyReference.cache
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.AssemblyInfoInputs.cache
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.AssemblyInfo.cs
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.csproj.CoreCompileInputs.cache
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\refint\ModelliMeteo.dll
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ModelliMeteo.pdb
+C:\Users\federico\source\repos\ProgettoEsame\ModelliMeteo\obj\Debug\net8.0\ref\ModelliMeteo.dll

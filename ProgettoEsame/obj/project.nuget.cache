@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9F64AG/vhPf0uNGvBrtHN224fPOx0hbYLQBDZbi8FtGfA6J4CjxN2vEMbXGpT9dA09wOunv/ipq/FiO8dSWTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\federico\\source\\repos\\ProgettoEsame\\ProgettoEsame\\ProgettoEsame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\federico\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
